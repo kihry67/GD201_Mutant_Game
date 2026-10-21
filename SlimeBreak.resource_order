@@ -1,0 +1,28 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":20,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":22,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":21,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Ball_Obj","order":7,"path":"objects/Ball_Obj/Ball_Obj.yy",},
+    {"name":"Blue_Block_Obj","order":2,"path":"objects/Blue_Block_Obj/Blue_Block_Obj.yy",},
+    {"name":"Moving_Plat_Obj","order":6,"path":"objects/Moving_Plat_Obj/Moving_Plat_Obj.yy",},
+    {"name":"o_wall","order":8,"path":"objects/o_wall/o_wall.yy",},
+    {"name":"Object_game","order":10,"path":"objects/Object_game/Object_game.yy",},
+    {"name":"Orange_Block_Obj","order":4,"path":"objects/Orange_Block_Obj/Orange_Block_Obj.yy",},
+    {"name":"Purple_Block_Obj","order":3,"path":"objects/Purple_Block_Obj/Purple_Block_Obj.yy",},
+    {"name":"Slime_Mov_Obj","order":9,"path":"objects/Slime_Mov_Obj/Slime_Mov_Obj.yy",},
+    {"name":"Slime_Obj","order":5,"path":"objects/Slime_Obj/Slime_Obj.yy",},
+    {"name":"White_Block_Obj","order":1,"path":"objects/White_Block_Obj/White_Block_Obj.yy",},
+    {"name":"Blue","order":1,"path":"sprites/Blue/Blue.yy",},
+    {"name":"Green","order":2,"path":"sprites/Green/Green.yy",},
+    {"name":"Moving_Platform","order":3,"path":"sprites/Moving_Platform/Moving_Platform.yy",},
+    {"name":"Orange","order":4,"path":"sprites/Orange/Orange.yy",},
+    {"name":"Outer_Wall","order":8,"path":"sprites/Outer_Wall/Outer_Wall.yy",},
+    {"name":"Purple","order":5,"path":"sprites/Purple/Purple.yy",},
+    {"name":"Slime_Calm_State","order":6,"path":"sprites/Slime_Calm_State/Slime_Calm_State.yy",},
+    {"name":"Sprite10","order":9,"path":"sprites/Sprite10/Sprite10.yy",},
+    {"name":"White","order":7,"path":"sprites/White/White.yy",},
+  ],
+}
